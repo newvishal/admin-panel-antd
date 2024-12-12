@@ -1,0 +1,9 @@
+.login-page {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.ant-row {
+    width: 100%;
+}
