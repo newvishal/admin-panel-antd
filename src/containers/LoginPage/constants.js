@@ -1,0 +1,1 @@
+export const ADD_VALIDATION_ERRROR = 'containers/LoginPage/ADD_VALIDATION_ERROR';
